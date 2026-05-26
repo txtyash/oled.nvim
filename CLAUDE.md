@@ -8,6 +8,8 @@ This repo is mirrored in `~/.config/nvim/`. Any change here must be applied ther
 |-------------|-------------|
 | `colors/oled.vim` | `~/.config/nvim/colors/oled.vim` |
 | `queries/<lang>/highlights.scm` | `~/.config/nvim/queries/<lang>/highlights.scm` |
+| `ghostty/oled-dark` | `~/.config/ghostty/themes/oled-dark` |
+| `ghostty/oled-light` | `~/.config/ghostty/themes/oled-light` |
 
 ## Design
 
